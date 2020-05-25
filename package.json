@@ -34,7 +34,8 @@
     "redux": "^4.0.5"
   },
   "scripts": {
-    "start": "react-scripts build && node server.js",
+    "start": "node server.js",
+    "heroku-postbuild": "react-scripts build"
     "reactStart": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
