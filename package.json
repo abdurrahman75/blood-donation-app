@@ -2,6 +2,7 @@
   "name": "blood-donate-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://blood-donation-web-app.herokuapp.com",
   "dependencies": {
     "@material-ui/core": "^4.9.4",
     "@material-ui/icons": "^4.9.1",
